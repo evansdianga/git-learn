@@ -1,4 +1,5 @@
 'use strict';
 (function () {
-    alert('ggg');
+    let content = document.getElementById('message');
+    content.innerHTML = 'Evans Dianga';
 })();
